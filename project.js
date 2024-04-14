@@ -2,9 +2,9 @@
 // 2. Determine number of lines to bet on--DONE
 // 3. Collect a bet amount from the player--DONE
 // 4. spin the slot machine--DONE
-// 5. Check if the user won
-// 6. Give the user their winnings
-// 7. Play again
+// 5. Check if the user won--DONE
+// 6. Give the user their winnings--DONE
+// 7. Play again--DONE
 
 const prompt = require("prompt-sync")();
 
